@@ -8,7 +8,6 @@ I enjoy learn new skills and sharing what I know to those who need it.<br>
 
 ###  :busts_in_silhouette: Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-FridaLuz22-00599C?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/fridaluz22/) &nbsp;&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-FridaLuz22-007ACC?style=flat-square&logo=Twitter&logoColor=white&link)](https://twitter.com/FridaLuz22) &nbsp;&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-FridaLuz22-orange?style=flat-square&logo=instagram&logoColor=white&link)](https://www.instagram.com/fridaluz22/) &nbsp;&nbsp;
 [![Facebook Badge](https://img.shields.io/badge/-FridaLuz22-blue?style=flat-square&logo=facebook&logoColor=white&link)](https://www.facebook.com/FridaLuz22/)
 
