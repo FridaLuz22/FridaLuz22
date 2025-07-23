@@ -3,8 +3,8 @@
 I'm from Perú :rocket:
 I enjoy learn new skills and sharing what I know to those who need it.<br>
 
-* 💬 Ask me anything you want, I like to talk.
 * 📫 How to reach me: fridafernandezdo@gmail.com
+* 💬 Ask me anything you want, I like to talk.
 
 ###  :busts_in_silhouette: Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-FridaLuz22-00599C?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/fridaluz22/) &nbsp;&nbsp;
@@ -16,9 +16,10 @@ I enjoy learn new skills and sharing what I know to those who need it.<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) &nbsp;
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-thistle?style=flat-square&logo=chakraui) &nbsp;
+![SASS](https://img.shields.io/badge/-SASS-thistle?style=flat-square&logo=sass) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) &nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) &nbsp;
-![AngularJS](https://img.shields.io/badge/-AngularJS-thistle?style=flat-square&logo=angularjs) &nbsp;
+![Angular](https://img.shields.io/badge/-Angular-thistle?style=flat-square&logo=angular) &nbsp;
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) &nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-silver?style=flat-square&logoColor=black&logo=Figma) &nbsp;
