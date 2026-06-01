@@ -19,13 +19,15 @@ I enjoy learn new skills and sharing what I know to those who need it.<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) &nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) &nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-thistle?style=flat-square&logo=angular) &nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) &nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) &nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) &nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) &nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) &nbsp;
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) &nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-silver?style=flat-square&logoColor=black&logo=Figma) &nbsp;
 
 ----
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FridaLuz22&count_private=true&show_icons=true&include_all_commits=true&theme=gotham) &nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FridaLuz22&hide=TeX&layout=compact&theme=gotham)
 
 
